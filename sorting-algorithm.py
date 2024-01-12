@@ -4,8 +4,8 @@ def total_sort(shorting_algorithm, arr):
     
 
     
-def __init__(self, arr) -> None:
-    self.arr = arr
+# def __init__(self, arr) -> None:
+#     self.arr = arr
 
 '''Bubble sort: bubble sort repeatidly steps through the list, compares adjacent elements, and swap them if they are in the wrong order. It continues until the list is sorted.'''
 
