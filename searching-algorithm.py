@@ -51,10 +51,11 @@ array = [1, 3, 5, 8, 12, 17]
 hash = {
     "1": "Rahul",
     "2": "Dheeraj",
-    "3": "Angela"
+    "3": "Angela",
+    "4": "Sonam",
 }
 dict = {}
 result = total_search(hash_search, hash, "3")
 # result = hash_search("3", hash)
-print(result)    
+print(result)
 
